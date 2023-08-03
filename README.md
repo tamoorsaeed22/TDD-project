@@ -79,7 +79,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 ```sh
-  cd create_enumerable
+  cd create TDD_project
   git clone git@github.com:tamoorsaeed22/TDD-project.git
 ```
 
