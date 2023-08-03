@@ -51,16 +51,13 @@ Ruby
   </ul>
 </details>
 
-
-
 ### Key Features <a name="key-features"></a>
 
+- **TDD concept.**
+- **Unit tests using Rspec.**
 - **Implement classes and objects in Ruby.**
-- **Implement encapsulation and inheritance with Ruby.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -79,7 +76,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 ```sh
-  cd create_enumerable
+  cd TDD-project
   git clone git@github.com:tamoorsaeed22/TDD-project.git
 ```
 
@@ -130,6 +127,14 @@ You can deploy this project using:
 - GitHub: [@githubhandle](https://github.com/fezzopro)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/kamana-felix)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+-  **Localization and Internationalization**
+-  **Continuous Integration and Deployment**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
