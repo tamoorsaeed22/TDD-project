@@ -135,6 +135,7 @@ You can deploy this project using:
 
 -  **Localization and Internationalization**
 -  **Continuous Integration and Deployment**
+-  **Error Handling and Exception Handling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
