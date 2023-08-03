@@ -120,7 +120,7 @@ You can deploy this project using:
 
 - GitHub: [@githubhandle](https://github.com/tamoorsaeed22)
 - Twitter: [@twitterhandle](https://www.linkedin.com/in/tamoor-saeed-58912a233/)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tamoorsaeed/)
 
 👤 **Felix KAMANA**
 
